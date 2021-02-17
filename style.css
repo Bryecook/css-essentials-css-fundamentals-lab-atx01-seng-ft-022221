@@ -12,4 +12,6 @@ nav {
   text-align: center;
 }
 
-section#"Featured Property"
+section#featured-property{
+  margin: auto;
+}
