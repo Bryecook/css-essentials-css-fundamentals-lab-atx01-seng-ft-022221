@@ -12,6 +12,6 @@ nav {
   text-align: center;
 }
 
-section#featured-property{
-  margin: auto;
+#featured-property{
+  margin: center;
 }
